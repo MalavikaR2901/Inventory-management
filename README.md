@@ -1,1 +1,1 @@
-# Inventory-management
+MySQL for database
